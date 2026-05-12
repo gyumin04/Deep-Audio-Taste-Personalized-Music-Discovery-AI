@@ -20,6 +20,7 @@
 - **Visualization:** Matplotlib, T-SNE
 
 ## 시각화 결과 (Analysis)
+<img width="1000" height="700" alt="Success of Taste Embedding" src="https://github.com/user-attachments/assets/441cc497-6493-4817-a0ae-dc096f06545e" />
 학습된 모든 음악 데이터를 2차원 공간에 투영한 결과입니다. 빨간색 점(선호 곡)들이 특정 영역에 밀집되어 있는 것을 확인할 수 있으며, 이는 모델이 사용자의 일관된 취향을 성공적으로 포착했음을 보여줍니다.
 
 ## 폴더 구조
